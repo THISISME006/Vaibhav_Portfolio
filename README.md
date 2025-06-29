@@ -1,5 +1,3 @@
-# Vaibhav_Portfolio
-
 # Vaibhav Bhatt | SDET-1 Portfolio
 
 Welcome to my personal portfolio website, built to showcase my skills, projects, and professional profile as a **SDET-1 (QA Automation Engineer)**.
