@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built to showcase my skills, projects, and professional profile as a **SDET-1 (QA Automation Engineer)**.
 
-🚀 **Live site:** [https://YOUR_USERNAME.github.io/vaibhav-portfolio/]
+🚀 **Live site:** https://thisisme006.github.io/Vaibhav_Portfolio/
 
 ---
 
